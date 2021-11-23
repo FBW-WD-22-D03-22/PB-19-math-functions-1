@@ -34,3 +34,14 @@ function division () { let division = a / b / c;
     
     division();
 
+//----------------------- spielerei -->
+
+const f = 12;
+const g = 3;
+const h = 0;
+
+function division () { let division = f / g / h; //wird hier nicht ausgeführt
+    console.log("die summe ist:" , division);
+    }
+    
+    division();
