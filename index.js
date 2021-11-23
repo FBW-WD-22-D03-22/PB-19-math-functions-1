@@ -1,5 +1,5 @@
-const firstNumber = 2;
-const secondNumber = 3;
+const firstNumber = 4;
+const secondNumber = 5;
 const thirdNumber = 1;
 
 function addition() {
