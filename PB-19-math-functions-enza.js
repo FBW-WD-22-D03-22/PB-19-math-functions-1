@@ -1,6 +1,9 @@
 const a = 2;
 const b = 3;
 const c = 4;
+const f = 12;
+const g = 3;
+const h = 0;
 
 //Aufgabenteil 1
 
@@ -32,16 +35,14 @@ function division () { let division = a / b / c;
     console.log("die summe ist:" , division);
     }
     
-    division();
+    division(); 
 
 //----------------------- spielerei -->
 
-const f = 12;
-const g = 3;
-const h = 0;
 
-function division () { let division = f / g / h; //wird hier nicht ausgeführt
+
+function division () { let division = f / g / h; 
     console.log("die summe ist:" , division);
     }
     
-    division();
+    division(); 
