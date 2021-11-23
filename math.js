@@ -1,18 +1,19 @@
 
 
 //let res = a + b + c;
-let a = 1;
-let b = 2 ;
-let c = 3;
-function Summe(){
-console.log("Total",a + b + c);
+let a = 12;
+let b = 24;
+let c = 31;
+
+function collect() {
+  console.log("Total",a + b + c);
 }
 //let res = a - b - c;
 function minus(){
     console.log("Total",a - b - c);
     }
 //let res = a * b * c;
-function Multiplikation(){
+function Multiplication(){
     console.log("Total",a * b * c);
     }
 //let res = a / b / c;
@@ -22,7 +23,7 @@ function Division(){
 
 
 
-Summe();
+collect();
 minus();
-Multiplikation();
+Multiplication();
 Division();
